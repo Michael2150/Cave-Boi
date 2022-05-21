@@ -11,13 +11,13 @@ TagManager:
   - Background
   - Water
   - UI
-  - Enemies
-  - Hazards
-  - Collectables
-  - Water
-  - Climbable
+  - Foliage
   - Player
+  - 
+  - Hazard
   - Foreground
+  - Climbing
+  - Collectibles
   - 
   - 
   - 
@@ -42,29 +42,29 @@ TagManager:
     uniqueID: 0
     locked: 0
   - name: Background
-    uniqueID: 1229606763
-    locked: 0
-  - name: Enemies
-    uniqueID: 1578470011
-    locked: 0
-  - name: Projectiles
-    uniqueID: 637297391
-    locked: 0
-  - name: Foreground
-    uniqueID: 416337199
-    locked: 0
-  - name: Player
-    uniqueID: 4112091195
+    uniqueID: 1870053977
     locked: 0
   - name: Water
-    uniqueID: 2695200373
+    uniqueID: 2035520329
     locked: 0
-  - name: Hazards
-    uniqueID: 3507702921
+  - name: Climbing
+    uniqueID: 1114031033
     locked: 0
-  - name: Collectables
-    uniqueID: 3124736753
+  - name: Foliage
+    uniqueID: 3448836035
+    locked: 0
+  - name: Hazard
+    uniqueID: 3058421687
+    locked: 0
+  - name: Collectibles
+    uniqueID: 40083153
+    locked: 0
+  - name: Player
+    uniqueID: 413373801
+    locked: 0
+  - name: Foreground
+    uniqueID: 1826783285
     locked: 0
   - name: UI
-    uniqueID: 4100021885
+    uniqueID: 3537098577
     locked: 0

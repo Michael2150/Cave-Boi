@@ -28,7 +28,7 @@ public class GameSession : MonoBehaviour
     {
         //Checks if there are multiple gamesession objects and destroys this if there.
         if (FindObjectsOfType<GameSession>().Length > 1) {
-            Destroy(gameObject);
+            Destroy(gameObject); 
         } else {
             DontDestroyOnLoad(gameObject); 
         }
